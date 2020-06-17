@@ -7,6 +7,6 @@ After initializing the database, run HttpServer.java under /src/main/java
 using Java SDK 11. Then send requests by JMeter. 
 
 In /src/main/java, HttpServer.java controls the server. 
-DBTrial connects the database. Please ignore JsonTrial.java. 
+Database connects the database. Please ignore JsonTrial.java. 
 
 In /src/main/java/bean, Book.java, Database.java, User.java are JavaBean. 
